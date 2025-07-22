@@ -2,7 +2,7 @@
 # 📊 Business Insights 360 - Power BI Project
 
 ## Live Dashboard:
-[Business Insights 360 - View Live Dashboard](https://app.powerbi.com/links/ub383S-Gjc?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare)
+[Business Insights 360 - View Live Dashboard]([https://app.powerbi.com/links/ub383S-Gjc?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare](https://app.powerbi.com/links/CQ0NKAYhQk?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=4b420c88-ede9-45c1-942a-1c6a14ad1a0e))
 
 ## Project Overview
 Business Insights 360 is a comprehensive Power BI Dashboard designed to deliver critical business insights across multiple functions such as Finance, Sales, Marketing, Supply Chain, and Executive Management. The dashboard enables data-driven decision-making through interactive visualizations and key performance indicators.
